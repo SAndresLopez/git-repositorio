@@ -1,6 +1,4 @@
-from queue import PriorityQueue
-
-from PC.entrada import DispositivoEntrada
+from src.PC.entrada import DispositivoEntrada
 
 
 class Teclado(DispositivoEntrada):

@@ -1,4 +1,4 @@
-from PC.entrada import DispositivoEntrada
+from src.PC.entrada import DispositivoEntrada
 
 class Mouse(DispositivoEntrada):
     contador_mouse = 0

@@ -1,6 +1,6 @@
-from PC.Mouse import Mouse
-from PC.Teclado import Teclado
-from PC.Monitor import monitor
+from src.PC.Mouse import Mouse
+from src.PC.Teclado import Teclado
+from src.PC.Monitor import monitor
 
 
 class computadora:

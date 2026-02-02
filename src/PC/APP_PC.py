@@ -1,8 +1,8 @@
-from PC.Monitor import monitor
-from PC.Mouse import Mouse
-from PC.Teclado import Teclado
-from PC.Computadora import computadora
-from PC.orden import orden
+from src.PC.Monitor import monitor
+from src.PC.Mouse import Mouse
+from src.PC.Teclado import Teclado
+from src.PC.Computadora import computadora
+from src.PC.orden import orden
 
 print("PROBANDO APP")
 teclado1= Teclado("HP", "USB")
