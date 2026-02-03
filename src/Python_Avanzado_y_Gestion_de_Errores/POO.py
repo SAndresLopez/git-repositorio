@@ -1,6 +1,4 @@
 #Prueba N°1, conectar una clase_objeto con MySQL
-from logging import exception
-
 import mysql.connector
 
 class Usuario:
@@ -40,4 +38,4 @@ finally:
 #Tuve problemas en la creacion de este archivo
 #Errores en la indentación del código, asi como en
 #los nombres de las variables, a futuro tratar de no comenterlos
-#El coigo está corregido sin embargo hay que pulir unas cosas.
+#El codigo está corregido sin embargo hay que pulir unas cosas.
