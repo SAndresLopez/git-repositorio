@@ -8,7 +8,7 @@ class Conexion:
     host ="localhost"
     port = 3306 #puerto por defecto
     pool_size = 5 #cantidad de objetos
-    pool_name ="plantilla de un pool de conecciones" #nombre del pool
+    pool_name ="plantilla de un pool de conexiones" #nombre del pool
     pool = None
 
     @classmethod
