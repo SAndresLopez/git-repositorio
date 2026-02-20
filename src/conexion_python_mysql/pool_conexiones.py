@@ -4,7 +4,7 @@ from mysql.connector import Error
 class Conexion:
     database ="blogdb"
     username ="root"
-    password = "123456"
+    password = "******"
     host ="localhost"
     port = 3306 #puerto por defecto
     pool_size = 5 #cantidad de objetos

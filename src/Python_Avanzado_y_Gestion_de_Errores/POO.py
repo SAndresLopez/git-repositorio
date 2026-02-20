@@ -13,7 +13,7 @@ try:
     conexion = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="123456",
+    password="******",
     database="blogdb"
     )
     cursor = conexion.cursor()
