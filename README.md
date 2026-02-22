@@ -1,18 +1,13 @@
-#  Ejercicios de Lógica y Algoritmos con Python
+# Aprendizaje Python
 
-Este repositorio documenta mi progreso y aprendizaje en el desarrollo con **Python 3**, enfocándome en buenas prácticas, lógica de programación y manejo de estructuras de datos.
+Mi camino de aprendizaje en Python, desde logica basica hasta APIs profesionales.
 
-## Sobre el Proyecto
-Aquí encontrarás una colección de scripts y pequeños programas diseñados para fortalecer conceptos clave del lenguaje.
+## Contenido del Repo
+* **/biblioteca_fastapi**: Proyecto de API REST con FastAPI, SQLAlchemy y migraciones con Alembic.
+* **/ejercicios_logica**: Retos y algoritmos resueltos.
 
-**Conceptos aplicados:**
-* Control de flujo (Ciclos `for`/`while`, Condicionales `if`/`else`).
-* Estructuras de datos (Listas, Diccionarios, Tuplas).
-* Manejo de archivos (I/O).
-* Lógica algorítmica.
-* 
-## 🛠️ Tecnologías
-* **Lenguaje:** Python 3.10+
-* **Control de Versiones:** Git
-
-   
+## Tecnologias
+* Python 3.x
+* FastAPI
+* SQLite / SQLAlchemy
+* Alembic
